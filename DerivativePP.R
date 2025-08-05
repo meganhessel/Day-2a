@@ -40,5 +40,5 @@ dy_dx
 # find the slope of T(y) at a range of values 
 y <- seq(from = -0.4, to = 2.0, by = 0.1)
 
-# evaulate the slope of T(yy) at each of those values 
+# evaluate the slope of T(y) at each of those values 
 eval(dy_dx)
